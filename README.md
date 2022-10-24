@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhilippedeLanteuil
-- 👀 I’m interested in IOT, Development, Machine Learning and 4.0
+- 👀 I’m interested in IOT, Development, Machine Learning, Cybersecurity and Industry 4.0.
 - 🌱 I’m currently learning other programming languages.
 - 📫 How to reach me: Instagram @philippelanteuil // Linkedin www.linkedin.com/in/PhilippeDeLanteuil 
 
